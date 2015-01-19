@@ -1,9 +1,9 @@
-#Thunder Browser [![Build Status](https://travis-ci.org/anthonycr/Thunder-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Thunder-Browser)
+#Thunder Browser [![Build Status](https://travis-ci.org/f1vefour/Thunder-Browser.svg?branch=master)](https://travis-ci.org/f1vefour/Thunder-Browser)
 ####Speed, Simplicity, Security
 ####A Traditional Browsing Experience
 #![](ic_launcher_small.png)
 ####Download
-* [Download APK from here](https://github.com/anthonycr/Thunder-Browser/releases)
+* [Download APK from here](https://github.com/f1vefour/Thunder-Browser/releases)
 
 * Download from Google Play (Not available just yet)
 
